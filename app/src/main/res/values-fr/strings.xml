@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">belle</string>
+    <string name="user_name">Nom de l\'utilisateur</string>
+    <string name="search">Rechercher</string>
+    <string name="exemple">Exemple</string>
+    <string name="picture">Image</string>
+    <string name="repo_number">Nombre de répertoires</string>
+    <string name="description">description</string>
+    <string name="name">nom</string>
+    <string name="license">license</string>
+    <string name="forks">branches</string>
+    <string name="language">languages</string>
+    <string name="watchers">observateurs</string>
+</resources>

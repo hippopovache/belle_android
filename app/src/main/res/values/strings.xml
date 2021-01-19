@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">belle</string>
+    <string name="user_name">User name</string>
+    <string name="search">Search</string>
+    <string name="exemple">Exemple</string>
+    <string name="picture">Picture</string>
+    <string name="repo_number">repository number</string>
+    <string name="description">description</string>
+    <string name="name">name</string>
+    <string name="license">license</string>
+    <string name="forks">forks</string>
+    <string name="language">language</string>
+    <string name="watchers">watchers</string>
 </resources>
